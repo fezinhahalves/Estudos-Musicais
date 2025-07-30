@@ -20,7 +20,8 @@
         "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.estudosmusicais.app" // <<<<< ADICIONE ESTA LINHA AQUI
     },
     "web": {
       "favicon": "./assets/icon.png"
