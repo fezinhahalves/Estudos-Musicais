@@ -21,7 +21,7 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.estudosmusicais.app" // <<<<< ADICIONE ESTA LINHA AQUI
+      "package": "com.mafe.estudosmusicais.app" // <<<<< ADICIONE ESTA LINHA AQUI
     },
     "web": {
       "favicon": "./assets/icon.png"
